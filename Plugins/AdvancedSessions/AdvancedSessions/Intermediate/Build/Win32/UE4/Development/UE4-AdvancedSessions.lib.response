@@ -1,8 +1,0 @@
-/NOLOGO
-/errorReport:prompt
-/MACHINE:x86
-/SUBSYSTEM:WINDOWS
-"E:\MyGames\Unreal\Boulder\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win32\UE4\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
-"E:\MyGames\Unreal\Boulder\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win32\UE4\Development\AdvancedSessions\AdvancedSessions.generated.cpp.obj"
-"E:\MyGames\Unreal\Boulder\Intermediate\Build\Win32\UE4\Development\AdvancedSessions\PCLaunch.rc.res"
-/OUT:"E:\MyGames\Unreal\Boulder\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win32\UE4-AdvancedSessions.lib"

@@ -73,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Stupid shit that keeps requiring us to re-extract
+Plugins/AdvancedSessions/*
